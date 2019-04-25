@@ -1,0 +1,16 @@
+F:\RPG\RPG\bin\x86\Debug\Database.mdb
+F:\RPG\RPG\bin\x86\Debug\RPG.exe.config
+F:\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\RPG\RPG\bin\x86\Debug\RPG.xml
+F:\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG\RPG\obj\x86\Debug\RPG.frmCreateGG.resources
+F:\RPG\RPG\obj\x86\Debug\RPG.frmMainScreen.resources
+F:\RPG\RPG\obj\x86\Debug\RPG.frmMain.resources
+F:\RPG\RPG\obj\x86\Debug\RPG.Resources.resources
+F:\RPG\RPG\obj\x86\Debug\RPG.frmFight_in_Arena.resources
+F:\RPG\RPG\obj\x86\Debug\RPG.vbproj.GenerateResource.Cache
+F:\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\RPG\RPG\obj\x86\Debug\RPG.xml
+F:\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\RPG\RPG\obj\x86\Debug\RPG.frmGGStats.resources

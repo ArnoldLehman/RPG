@@ -1,0 +1,23 @@
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\bin\Debug\RPG.exe
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\bin\Debug\RPG.pdb
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\bin\Debug\RPG.xml
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.Form1.resources
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.Resources.resources
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.Начало_игры.resources
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.vbproj.GenerateResource.Cache
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.exe
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.xml
+C:\Users\s0\AppData\Local\Temporary Projects\RPG\obj\Debug\RPG.pdb
+F:\RPG\RPG\obj\Debug\RPG.exe
+F:\RPG\RPG\obj\Debug\RPG.xml
+F:\RPG\RPG\obj\Debug\RPG.pdb
+F:\RPG\RPG\bin\Debug\RPG.exe
+F:\RPG\RPG\bin\Debug\RPG.pdb
+F:\RPG\RPG\bin\Debug\RPG.xml
+F:\RPG\RPG\obj\Debug\ResolveAssemblyReference.cache
+F:\RPG\RPG\obj\Debug\RPG.Main.resources
+F:\RPG\RPG\obj\Debug\RPG.Resources.resources
+F:\RPG\RPG\obj\Debug\RPG.frmFight_in_Arena.resources
+F:\RPG\RPG\obj\Debug\RPG.vbproj.GenerateResource.Cache
+F:\RPG\RPG\obj\Debug\RPG.frmCreateGG.resources
